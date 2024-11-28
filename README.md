@@ -1,1 +1,4 @@
 # Railway-Ticket-Booking-System
+* This is Simple Railway Reservation System Project developed by 'Nitesh Patil' using HTML , CSS , Javascript as frontend and Python ,django,  Sqlite in backend.
+* Railway Reservation System is designed to automate the online ticket purchasing through an easy-to-use online train ticket booking system. Embed our online train ticketing system into your website and enable your customers to book tickets for various routes and destinations. With the railway ticket reservation system, you can manage reservations, client data, and passenger lists. You can also schedule routes, set seat availability, upload an interactive seat map and let customers select their seats.The Railway Reservation System is available under two licensing options: User and Developer License. 
+
